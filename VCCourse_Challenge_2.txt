@@ -1,0 +1,1 @@
+Tis is a second text file I used for final assigment at Git Bush
